@@ -2,6 +2,7 @@
 ## Exploring US BikeShare Data
 <br>
 <br>
+
 ### Date created
 This project and README file were created on June 15, 2020
 
