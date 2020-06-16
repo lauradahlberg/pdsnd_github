@@ -2,6 +2,7 @@
 ## Exploring US BikeShare Data
 <br>
 <br>
+![bikes](images/black-and-red-bikes-parked-under-trees-close-up1.jpg "bikeshare")
 
 ### Date created
 This project and README file were created on June 15, 2020
