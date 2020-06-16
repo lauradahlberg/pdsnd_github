@@ -2,6 +2,7 @@
 ## Exploring US BikeShare Data
 <br>
 <br>
+
 ![bikes](images/black-and-red-bikes-parked-under-trees-close-up1.jpg "bikeshare")
 
 ### Date created
